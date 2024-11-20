@@ -1,0 +1,10 @@
+param PESOMAX := 10;
+
+# Definimos ítems con valor y peso respectivamente
+param: ELEMENTOS: VALOR PESO :=
+  botella_agua 5 1
+  libro 8 3
+  par_zapatos 10 2
+  chaqueta 15 4
+  camara 20 5
+;

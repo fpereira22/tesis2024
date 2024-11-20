@@ -1,0 +1,16 @@
+param PESOMAX := 102;
+
+# Definimos ítems con valor y peso respectivamente
+param: ELEMENTOS: VALOR PESO :=
+  camara  15  2
+  bolsa 100 20
+  Mapa 90 20
+  lapiz 60 30
+  pistola 40 40 
+  azucar 15 30
+  platano 10 60
+  queso 1 10
+  manteca 12 21
+  chocolate 12 12
+  sal 100  2  
+;
